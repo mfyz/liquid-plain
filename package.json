@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "liquidjs": "^9.6.2"
+    "liquidjs": "^10.0.0"
   }
 }
